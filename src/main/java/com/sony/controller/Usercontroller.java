@@ -27,7 +27,7 @@ public class Usercontroller {
 		if (user == null) {
 			return ResponseEntity.notFound().build();
 		}
-		return ResponseEntity.ok(user);
+		return ResponseEntity.ok(user); //jinkins work
 
 	}
 }
