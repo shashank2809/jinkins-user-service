@@ -21,7 +21,7 @@ public class UserManager {
 	user=new User("Alex", "Cole", "pqr@gmail.com", "Chandigarh");
 	users.put(user.getId(), user);
 	
-	user=new User("Rohit", "Malik", "xyz@gmail.com", "Hubli");
+	user=new User("Rohit", "Kumar", "xyz@gmail.com", "Hubli");
 	users.put(user.getId(), user);
 
 	
